@@ -1,5 +1,23 @@
 ## BASICS
+- Invented by James Gosling
+-  Features of Java Programming are Portable, Architectural Neutral, Object-Oriented, Robust, Secure, Dynamic and Extensible, etc.
+- Pointers is not a Java feature. Java provides an efficient abstraction layer for developing without using a pointer in Java.
+- Java is primarily platform independent as it primarily focuses on the principle of "Compile once , run anywhere"
+- There are 4 OOPS concepts in Java. Inheritance, Encapsulation, Polymorphism and Abstraction.
+- JDK - Java Development toolkit
+- JDK is used to compile , debug and execute java programs.
+-  JAVA_HOME environment variable is used to store a path to the java installation.
+
 ## DATATYPES
+
 ## OPERATORS
+class increment {
+        public static void main(String args[]) 
+        {        
+             int g = 3;
+             System.out.print(++g * 8);
+        } 
+    }
+- Operator ++ has more preference than *, thus g becomes 4 and when multiplied by 8 gives 32.
 ## CONTROL STATEMENTS
 
